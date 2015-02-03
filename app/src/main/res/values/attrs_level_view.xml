@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="LevelView">
+        <attr name="level" format="integer" />
+        <attr name="score" format="integer" />
+        <attr name="isLock" format="boolean" />
+    </declare-styleable>
+</resources>

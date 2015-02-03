@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/tip1" android:duration="500" />
+    <item android:drawable="@drawable/tip2" android:duration="200" />
+    <item android:drawable="@drawable/tip3" android:duration="400" />
+    <item android:drawable="@drawable/tip4" android:duration="200" />
+    <item android:drawable="@drawable/tip5" android:duration="400" />
+    <item android:drawable="@drawable/tip6" android:duration="200" />
+    <item android:drawable="@drawable/tip7" android:duration="400" />
+    <item android:drawable="@drawable/tip8" android:duration="200" />
+    <item android:drawable="@drawable/tip9" android:duration="200" />
+    <item android:drawable="@drawable/tip10" android:duration="200" />
+    <item android:drawable="@drawable/tip11" android:duration="500" />
+</animation-list>

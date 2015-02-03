@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_color">#FFFFFF</color>
+    <color name="game_table_color">#6F333333</color>
+    <color name="about_text_color">#6699FF</color>
+</resources>
